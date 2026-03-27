@@ -2,9 +2,8 @@ import Lake
 open Lake DSL
 open System (FilePath)
 
-package stopwatch
+package tetris
 
-lean_lib Stopwatch
 lean_lib Tetris
 
 target terminalO (pkg : NPackage __name__) : FilePath := do
