@@ -72,6 +72,13 @@ lake exe tetris
 
 初回ビルド時は依存関係の解決とコンパイルに数分かかることがあります。
 
+## ライセンス
+
+MIT または Apache License 2.0 のデュアルライセンスです。いずれかを選択して利用できます。
+
+- [LICENSE-MIT](LICENSE-MIT)
+- [LICENSE-APACHE](LICENSE-APACHE)
+
 ## 実装について
 
 ```
